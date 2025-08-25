@@ -2,13 +2,11 @@
 
 Follow the steps below to set up the environment and run the demo.
 
----
 
 ## Step 1: Install Anaconda
 Download and install Anaconda from the official website:  
 [Anaconda Download](https://www.anaconda.com/download/success)
 
----
 
 ## Step 2: Install PyTorch
 Open the **Anaconda Terminal** and install PyTorch using the command provided on the official website:  
@@ -16,7 +14,6 @@ Open the **Anaconda Terminal** and install PyTorch using the command provided on
 
 Run the installation command directly in the Anaconda Terminal.
 
----
 
 ## Step 3: Install Visual Studio Code
 Download and install **Visual Studio Code**:  
@@ -26,7 +23,6 @@ Next, install the following extensions from the **VS Code Marketplace**:
 - [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Jupyter Extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
----
 
 ## Step 4: Run the Demo
 1. Navigate to: src/Daph sandbox.ipynb
@@ -34,7 +30,6 @@ Next, install the following extensions from the **VS Code Marketplace**:
 2. In jupyter notebook, select the **kernel** to be Python from your Anaconda environment.
 3. Click **Run All** to execute the notebook.
 
----
 
 ### Expected Output
 You should see a classification report similar to the following:
