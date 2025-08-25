@@ -12,7 +12,7 @@ Download and install Anaconda from the official website:
 Open the **Anaconda Terminal** and install PyTorch using the command provided on the official website:  
 [PyTorch Installation Instructions](https://pytorch.org/)
 
-Run the installation command directly in the Anaconda Terminal.
+**[IMPORTANT]** Run the installation command directly in the Anaconda Terminal.
 
 
 ## Step 3: Install Visual Studio Code
